@@ -2,7 +2,6 @@
 
 I am a **C# Enthusiast** and **Software Developer** I build high-performance applications across the entire .NET ecosystem. small games, desktop applications and cloud APIs, I love learning how things work under the hood.
 
----
 
 ### 🚀 My Tech Stack
 
@@ -14,7 +13,6 @@ I am a **C# Enthusiast** and **Software Developer** I build high-performance app
 | **Languages** | **C#**, SQL, XAML |
 | **Tools** | .NET SDK, Git, Visual Studio Code |
 
----
 
 ### 🛠️ My Projects
 
