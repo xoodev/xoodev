@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Wassim! 👋
 
-<!--
-**xoodev/xoodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **C# Enthusiast** and **Software Developer** I build high-performance applications across the entire .NET ecosystem. small games, desktop applications and cloud APIs, I love learning how things work under the hood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Tech Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Desktop UI** | **Avalonia UI**, WPF, WinForms |
+| **Game Dev** | **MonoGame**, XNA Framework |
+| **Web Dev** | **ASP.NET Core**, Web APIs, Entity Framework |
+| **Languages** | **C#**, SQL, XAML |
+| **Tools** | .NET SDK, Git, Visual Studio Code |
+
+---
+
+### 🛠️ My Projects
+
+- 🟣 **Violet:** A lightweight, optimized image viewer built with Avalonia UI for low end hardware.
+---
+
+
+<!--### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter/X](https://twitter.com/yourhandle)
+- 📧 [Your Email]-->
