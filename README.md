@@ -19,7 +19,6 @@ I am a **C# Enthusiast** and **Software Developer** I build high-performance app
 ### 🛠️ My Projects
 
 - 🟣 **Violet:** A lightweight, optimized image viewer built with Avalonia UI for low end hardware.
----
 
 
 <!--### 📫 Connect with me
